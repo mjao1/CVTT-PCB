@@ -9230,6 +9230,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 196.85) (xy 208.28 196.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14288211-e3f9-4a2f-9066-3e7c3e236b94")
+	)
+	(wire
+		(pts
 			(xy 31.75 135.89) (xy 43.18 135.89)
 		)
 		(stroke
@@ -9347,16 +9357,6 @@
 			(type default)
 		)
 		(uuid "1cd66591-6252-47c1-a278-5510c000bab6")
-	)
-	(wire
-		(pts
-			(xy 264.16 191.77) (xy 279.4 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e77f88c-8322-4830-8174-7bd1f7c5bb2b")
 	)
 	(wire
 		(pts
@@ -10027,16 +10027,6 @@
 			(type default)
 		)
 		(uuid "54002c81-627c-45dc-a2f4-c76ddc696cce")
-	)
-	(wire
-		(pts
-			(xy 193.04 156.21) (xy 208.28 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "544e2db2-1333-4f2b-914f-db3ff49b3fca")
 	)
 	(wire
 		(pts
@@ -11720,6 +11710,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 207.01) (xy 208.28 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7a9e041-6c08-4565-9dc9-61902268738a")
+	)
+	(wire
+		(pts
 			(xy 219.71 127) (xy 219.71 128.27)
 		)
 		(stroke
@@ -12418,6 +12418,16 @@
 		)
 		(uuid "56b8fb3e-5542-4890-91e6-3bc11624e166")
 	)
+	(label "PMWB"
+		(at 193.04 196.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5d7b8a5f-1dae-4a82-a728-e1b2ee245dec")
+	)
 	(label "DRV_RST"
 		(at 193.04 173.99 0)
 		(effects
@@ -12437,6 +12447,16 @@
 			(justify right bottom)
 		)
 		(uuid "6466be3d-e4ee-4508-ae66-ac01c3595cff")
+	)
+	(label "PMWA"
+		(at 193.04 207.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "67edf6a7-0e53-4e47-8360-776a562415dd")
 	)
 	(label "STBY"
 		(at 26.67 135.89 0)
@@ -12728,16 +12748,6 @@
 		)
 		(uuid "e20f9895-49d9-4454-a8e5-92723a6aab90")
 	)
-	(label "PMWA"
-		(at 279.4 191.77 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e841fd24-7f5d-4b0e-9c27-ebde4fc0159e")
-	)
 	(label "UART_RX"
 		(at 279.4 199.39 180)
 		(effects
@@ -12837,16 +12847,6 @@
 			(justify right bottom)
 		)
 		(uuid "fa7527a0-5bac-4ae3-91de-4326b5148edc")
-	)
-	(label "PMWB"
-		(at 193.04 156.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fc1ac539-782e-42d3-b928-3ceb0580b170")
 	)
 	(label "PA14_SWKCLK"
 		(at 299.72 173.99 180)
