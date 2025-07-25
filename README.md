@@ -1,2 +1,36 @@
 # CVTT-PCB
-Computer Vision-Based Table Tennis Training System
+**Custom Embedded PCB for a Computer Vision-Based Table Tennis Training System**
+
+<div align="center">
+  <img src="images/CVTT-PCB-layout.jpg" alt="CVTT-PCB-layout" width="46%"/>
+  <img src="images/CVTT-PCB-3D.jpg" alt="CVTT-PCB-3D" width="45%"/>
+</div>
+
+## Core Components
+
+- **Microcontrollers and Compute:**
+  - STM32G0B1RET6
+  - Raspberry Pi Zero 2 W
+
+## Actuation System
+
+- **Motor Driver Support:**
+  - 2 Brushless DC motors for flywheels
+  - 2 Servos for direction and distance control
+  - 1 Stepper motor for ball feeding
+
+## Power and Regulation
+
+- **Power Circuitry:**
+  - E-fuse circuit
+  - 12V to 5V LDO Regulator
+  - 5V to 3.3V LDO Regulator
+  - Micro USB-B power input
+
+## User Interface
+
+- **Controls and Feedback:**
+  - Manual/CV mode switch
+  - LCD screen for manual control
+  - LCD navigation buttons
+  - Diagnostic LEDs
