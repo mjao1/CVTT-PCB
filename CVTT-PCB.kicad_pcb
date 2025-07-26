@@ -3296,6 +3296,17 @@
 				(xyz -0 -0 -0)
 			)
 		)
+		(model "/Users/michaeljao/Downloads/629105150521+%28rev1%29.stp"
+			(offset
+				(xyz 0 1 1)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_0603_1608Metric"
 		(layer "F.Cu")
@@ -10715,6 +10726,17 @@
 				(xyz 90 -180 -0)
 			)
 		)
+		(model "/Users/michaeljao/Downloads/EDK477M025A9PAA.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -180)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
@@ -14563,6 +14585,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -90)
+			)
+		)
+		(model "/Users/michaeljao/Downloads/MPM3610GQV-P--3DModel-STEP-343623.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -22802,6 +22835,17 @@
 			)
 		)
 		(model "C:/Users/Michael/Downloads/167031500-3-sru5018-100y/6924823.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "/Users/michaeljao/Downloads/6924823.stp"
 			(offset
 				(xyz 0 0 0)
 			)
