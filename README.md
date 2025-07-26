@@ -2,9 +2,9 @@
 **Custom Embedded PCB for a Computer Vision-Based Table Tennis Training System**
 
 <div align="center">
-  <img src="images/CVTT-PCB-layout.png" alt="CVTT-PCB-layout" width="46%"/>
-  <img src="images/CVTT-PCB-3D.png" alt="CVTT-PCB-3D" width="45%"/>
-  <img src="images/CVTT-sch.png" alt="CVTT-sch" width="100%"/>
+  <img src="assets/CVTT-PCB-layout.png" alt="CVTT-PCB-layout" width="45%"/>
+  <img src="assets/CVTT-PCB-3D.png" alt="CVTT-PCB-3D" width="45%"/>
+  <img src="assets/CVTT-sch.png" alt="CVTT-sch" width="90%"/>
 </div>
 
 ## Core Components
