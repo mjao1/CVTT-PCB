@@ -19363,7 +19363,7 @@
 		(dnp no)
 		(uuid "94269a6e-7f3a-4289-972c-77cb1cffe8df")
 		(property "Reference" "D5"
-			(at 194.818 64.77 0)
+			(at 193.675 63.627 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19371,7 +19371,7 @@
 			)
 		)
 		(property "Value" "PG"
-			(at 192.278 64.77 0)
+			(at 193.675 66.167 90)
 			(effects
 				(font
 					(size 1.27 1.27)
