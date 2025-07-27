@@ -23,10 +23,10 @@
 ## Power and Regulation
 
 - **Power Circuitry:**
+  - 12V input
   - E-fuse circuit
   - 12V to 5V LDO Regulator
   - 5V to 3.3V LDO Regulator
-  - Micro USB-B power input
 
 ## User Interface
 
