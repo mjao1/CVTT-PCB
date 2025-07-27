@@ -3508,7 +3508,7 @@
 				)
 			)
 		)
-		(property "Value" "RASPBERRY_PI_ZERO_2_W"
+		(property "Value" "RASPBERRY PI ZERO 2 W"
 			(at 18.8 -16.4 0)
 			(layer "F.SilkS")
 			(uuid "d6969349-8fde-4b27-bee3-ad95fbc90b82")
@@ -18151,17 +18151,6 @@
 		)
 		(embedded_fonts no)
 		(model "C:/Users/Michael/Downloads/PJ-002B/PJ-002B.step"
-			(offset
-				(xyz 13.5 0 6.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -0)
-			)
-		)
-		(model "/Users/michaeljao/Downloads/PJ-002B.step"
 			(offset
 				(xyz 13.5 0 6.5)
 			)
