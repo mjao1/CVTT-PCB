@@ -1,5 +1,5 @@
 # CVTT-PCB
-**Custom Embedded PCB for a Computer Vision-Based Table Tennis Training System**
+**Custom Embedded PCB for a Computer Vision-Based Table Tennis Robotic System**
 
 <div align="center">
   <img src="assets/CVTT-PCB-layout.png" alt="CVTT-PCB-layout" width="45%"/>
