@@ -7,6 +7,10 @@
   <img src="assets/CVTT-sch.png" alt="CVTT-sch" width="90%"/>
 </div>
 
+<div align="center">
+<em>The dragon on the silkscreen references Ma Long, the goat of table tennis; 'Long' translates to 'dragon' in Mandarin.</em>
+</div>
+
 ## Core Components
 
 - **Microcontrollers and Compute:**
