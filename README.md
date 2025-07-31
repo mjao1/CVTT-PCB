@@ -7,6 +7,10 @@
   <img src="assets/CVTT-sch.png" alt="CVTT-sch" width="90%"/>
 </div>
 
+<div align="center">
+<em>The dragon on the silkscreen references Ma Long, the goat of table tennis; 'Long' translates to 'dragon' in Mandarin.</em>
+</div>
+
 ## Core Components
 
 - **Microcontrollers and Compute:**
@@ -35,3 +39,8 @@
   - LCD screen for manual control
   - LCD navigation buttons
   - Diagnostic LEDs
+ 
+## Next Steps
+- Programming STM machine logic state machine
+- Programming RPI CV player recognition algorithm
+- Motor selection and power calculations for eFuse ILM
