@@ -18710,7 +18710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/en/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_decoupling_mlz1608_en.pdf"
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/SRU5016.pdf"
 			(at 355.6 54.61 0)
 			(effects
 				(font
@@ -18719,7 +18719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "SRU5018-100Y"
+		(property "Description" "FIXED IND 10UH 1A 84 MOHM SMD"
 			(at 355.6 54.61 0)
 			(effects
 				(font
@@ -18728,7 +18728,16 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "MLZ1608N100LT000"
+		(property "Part Number" "SRU5016-100Y"
+			(at 355.6 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bourns Inc."
 			(at 355.6 54.61 90)
 			(effects
 				(font
@@ -19363,7 +19372,7 @@
 		(dnp no)
 		(uuid "94269a6e-7f3a-4289-972c-77cb1cffe8df")
 		(property "Reference" "D5"
-			(at 193.675 63.627 90)
+			(at 193.802 63.754 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19371,7 +19380,7 @@
 			)
 		)
 		(property "Value" "PG"
-			(at 193.675 66.167 90)
+			(at 193.802 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20727,7 +20736,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "24k"
+		(property "Value" "51k"
 			(at 284.734 59.182 0)
 			(effects
 				(font
@@ -20745,7 +20754,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 283.21 58.42 0)
 			(effects
 				(font
@@ -20754,7 +20763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 51K OHM 1% 1/10W 0603"
 			(at 283.21 58.42 0)
 			(effects
 				(font
@@ -20763,7 +20772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-1351KL"
 			(at 283.21 58.42 0)
 			(effects
 				(font
@@ -20772,7 +20781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 283.21 58.42 0)
 			(effects
 				(font
@@ -22135,7 +22144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75k"
+		(property "Value" "270k"
 			(at 284.734 52.832 0)
 			(effects
 				(font
@@ -22153,7 +22162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 283.21 52.07 0)
 			(effects
 				(font
@@ -22162,7 +22171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 270K OHM 1% 1/10W 0603"
 			(at 283.21 52.07 0)
 			(effects
 				(font
@@ -22171,7 +22180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "RC0603FR-07270KL"
 			(at 283.21 52.07 0)
 			(effects
 				(font
@@ -22180,7 +22189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 283.21 52.07 0)
 			(effects
 				(font
