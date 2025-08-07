@@ -8880,7 +8880,7 @@
 		)
 		(uuid "8b64ce97-e410-468d-8679-24d6228fdd06")
 	)
-	(text "ILM = 3.33A"
+	(text "ILM = 6.5A"
 		(exclude_from_sim no)
 		(at 172.212 73.66 0)
 		(effects
@@ -13831,7 +13831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2328/CL10A475KO8NNNC_Spec.pdf"
 			(at 327.66 58.42 0)
 			(effects
 				(font
@@ -13840,7 +13840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 4.7UF 16V X5R 0603"
 			(at 327.66 58.42 0)
 			(effects
 				(font
@@ -13849,7 +13849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CL10A475KO8NNNC"
 			(at 327.66 58.42 0)
 			(effects
 				(font
@@ -13858,7 +13858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 327.66 58.42 0)
 			(effects
 				(font
@@ -14051,93 +14051,6 @@
 			(project "CVTT-PCB"
 				(path "/1cfd431a-19b0-4ea1-8526-1e2a0b724830"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 364.49 58.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "26a53638-0c34-4bc6-b527-a73041b4047e")
-		(property "Reference" "C11"
-			(at 366.776 57.658 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10µF"
-			(at 366.268 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 364.49 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 364.49 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 364.49 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" ""
-			(at 364.49 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 364.49 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f54d5c48-2f90-47b3-bb1d-4b1802a91e02")
-		)
-		(pin "2"
-			(uuid "9afb2bda-ecf8-41e3-ab67-3d8de34e524e")
-		)
-		(instances
-			(project "CVTT-PCB"
-				(path "/1cfd431a-19b0-4ea1-8526-1e2a0b724830"
-					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -14597,7 +14510,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2139/CL10A226MO7JZNC_Spec.pdf"
 			(at 292.1 55.88 0)
 			(effects
 				(font
@@ -14606,7 +14519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 16V X5R 0603"
 			(at 292.1 55.88 0)
 			(effects
 				(font
@@ -14615,7 +14528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CL10A226MO7JZNC"
 			(at 292.1 55.88 0)
 			(effects
 				(font
@@ -14624,7 +14537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 292.1 55.88 0)
 			(effects
 				(font
@@ -17733,7 +17646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28773/crcwce3.pdf"
 			(at 246.38 66.04 0)
 			(effects
 				(font
@@ -17742,7 +17655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 53.6K OHM 1% 1/10W 0603"
 			(at 246.38 66.04 0)
 			(effects
 				(font
@@ -17751,7 +17664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "CRCW060353K6FKEAC"
 			(at 246.38 66.04 0)
 			(effects
 				(font
@@ -17760,7 +17673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Vishay Dale"
 			(at 246.38 66.04 0)
 			(effects
 				(font
@@ -19406,7 +19319,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "510"
 			(at 165.608 70.866 0)
 			(effects
 				(font
@@ -19424,7 +19337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/20065/rcse3.pdf"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 163.83 71.12 0)
 			(effects
 				(font
@@ -19433,7 +19346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES SMD 1K OHM 1% 1/4W 0603"
+		(property "Description" "RES 510 OHM 1% 1/10W 0603"
 			(at 163.83 71.12 0)
 			(effects
 				(font
@@ -19442,7 +19355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RCS06031K00FKEA"
+		(property "Part Number" "RC0603FR-07510RL"
 			(at 163.83 71.12 0)
 			(effects
 				(font
@@ -19451,7 +19364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Vishay Dale"
+		(property "Manufacturer" "YAGEO"
 			(at 163.83 71.12 0)
 			(effects
 				(font
@@ -19788,6 +19701,93 @@
 			(project "CVTT-PCB"
 				(path "/1cfd431a-19b0-4ea1-8526-1e2a0b724830"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 364.49 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a5850817-aac2-4be1-93e2-d0a0c0443e02")
+		(property "Reference" "C11"
+			(at 366.522 57.404 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10µF"
+			(at 366.522 59.182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106KA73-01.pdf"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP CER 10UF 25V X5R 0603"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "GRM188R61E106KA73D"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 364.49 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "58ab89d7-fb91-4ebc-9efd-58bc6e1c331b")
+		)
+		(pin "2"
+			(uuid "ad72a567-f7f0-41aa-828e-f37842a50943")
+		)
+		(instances
+			(project "CVTT-PCB"
+				(path "/1cfd431a-19b0-4ea1-8526-1e2a0b724830"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -21376,7 +21376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106KA73-01.pdf"
 			(at 237.49 59.69 0)
 			(effects
 				(font
@@ -21385,7 +21385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0603"
 			(at 237.49 59.69 0)
 			(effects
 				(font
@@ -21394,7 +21394,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" ""
+		(property "Part Number" "GRM188R61E106KA73D"
 			(at 237.49 59.69 0)
 			(effects
 				(font
@@ -21403,7 +21403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 237.49 59.69 0)
 			(effects
 				(font
