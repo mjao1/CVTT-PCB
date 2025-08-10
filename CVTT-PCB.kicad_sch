@@ -19136,7 +19136,7 @@
 				)
 			)
 		)
-		(property "Value" "RASPBERRY_PI_ZERO_2_W"
+		(property "Value" "RASPBERRY PI ZERO 2 W"
 			(at 353.06 121.92 0)
 			(effects
 				(font
