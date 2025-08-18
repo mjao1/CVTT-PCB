@@ -43,4 +43,3 @@
 ## Next Steps
 - Programming STM machine logic state machine
 - Programming RPI CV player recognition algorithm
-- Motor selection and power calculations for eFuse ILM
