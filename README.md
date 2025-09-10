@@ -2,7 +2,7 @@
 **Custom Embedded PCB for a Computer Vision-Based Table Tennis Robotic System**
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/79edc3c7-3caf-487b-99e9-ea04ce1210a3" alt="CVTT-PCB-layout" width="60%"/>
+  <img src="assets/CVTT-PCBA.jpg" alt="CVTT-PCBA" width="70%"/>
   <img src="assets/CVTT-PCB-layout.png" alt="CVTT-PCB-layout" width="45%"/>
   <img src="assets/CVTT-PCB-3D.png" alt="CVTT-PCB-3D" width="45%"/>
   <img src="assets/CVTT-sch.png" alt="CVTT-sch" width="90%"/>
