@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<em>The dragon on the silkscreen references Ma Long, the goat of table tennis; 'Long' translates to 'dragon' in Mandarin.</em>
+<em>The dragon on the silkscreen references Ma Long, the goat of table tennis; 'Long' translates to 'dragon' in Mandarin (龍).</em>
 </div>
 
 ## Core Components
