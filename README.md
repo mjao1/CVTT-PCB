@@ -43,4 +43,6 @@
  
 ## Next Steps
 - Programming STM machine logic state machine
+  - Design LCD user interface for manual and vision modes
 - Programming RPI CV player recognition algorithm
+  - Using RPI AI camera (SC1174) for inference acceleration
